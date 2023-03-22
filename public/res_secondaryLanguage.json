@@ -1,0 +1,112 @@
+{
+  "basic_info": {
+    "description_header": "Saludos",
+    "description": "👋 Soy un diligente estudiante de cuarto año de Ciencias de la Computación con habilidades en programación y diseño UI/UX. Comprometido con el aprendizaje continuo y el crecimiento profesional, busco constantemente nuevas oportunidades para expandir mis habilidades y conocimientos. Soy particularmente hábil en HTML, CSS, JavaScript y PHP, que he aplicado tanto en mis estudios como en mi trabajo como pasante estudiantil en Innospire IT Solutions. Con mi combinación de habilidades técnicas y creatividad, estoy emocionado por explorar oportunidades en los campos del desarrollo web y el diseño UX.",
+    "section_name": {
+      "about": "Sobre mí",
+      "projects": "Proyectos",
+      "skills": "Habilidades",
+      "experience": "Experiencia"
+    }
+  },
+  "projects": [
+    {
+      "title": "Proyecto de Tesis",
+      "startDate": "2023",
+      "description": "Como diseñador UI/UX para nuestro proyecto de tesis, lideré los esfuerzos de diseño para un chatbot impulsado tanto por sistemas NLP como basados en reglas, que tenía como objetivo mejorar el portal de nuestra escuela. Desempeñé un papel fundamental en asegurar que el chatbot fuera fácil de usar y proporcionara una experiencia fluida para nuestro público objetivo. Puede encontrar información más detallada sobre mi contribución al proyecto en nuestro repositorio.",
+      "images": [
+        "images/portfolio/thesis/repocardtemplate-mydbuddy.png",
+        "images/portfolio/thesis/zoom-demo.GIF"
+      ],
+      "url": "https://github.com/pangilinan-patrick/MyDBuddy-Channel-Web",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "css"
+        }
+      ]
+    },
+    {
+      "title": "Diseño Gráfico",
+      "startDate": "2019",
+      "description": "Durante mi tiempo en la escuela secundaria, me dediqué a crear varios proyectos de diseño gráfico que me permitieron perfeccionar mis habilidades en el uso de software como GIMP e Inkscape. A través de estos proyectos, no solo desarrollé una comprensión más profunda de los principios del diseño gráfico, sino que también adquirí la capacidad de aplicarlos de manera efectiva.",
+      "images": [
+        "images/portfolio/graphic-design/booklet.png",
+        "images/portfolio/graphic-design/math-poster.png"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-gimp-plain",
+          "name": "GIMP"
+        },
+        {
+          "class": "devicon-inkscape-plain",
+          "name": "Inkscape"
+        }
+      ]
+    },
+    {
+      "title": "Prácticas de Estudiante",
+      "startDate": "2019",
+      "description": "Produje un logotipo y varios materiales visuales para una organización y recibí una calificación alta del 99% por un trabajo excepcional. Adquirí experiencia con HTML, CSS y JavaScript. Orienté a otro estudiante en prácticas sobre software de diseño como GIMP e Inkscape.",
+      "images": [
+        "images/portfolio/innospire/logo-w-circle.png",
+        "images/portfolio/innospire/business-card.png",
+        "images/portfolio/innospire/id-front.png",
+        "images/portfolio/innospire/id-back.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "De la Salle Lipa",
+      "title": "Estudiante de Ciencias de la Computación",
+      "years": "2019 - 2023",
+      "mainTech": ["Programación"],
+      "technologies": [
+        "C",
+        "C++",
+        "Python",
+        "MySQL",
+        "Programación Orientada a Objetos"
+      ]
+    },
+    {
+      "company": "Innospire IT Solutions",
+      "title": "Estudiante en Prácticas",
+      "years": "2019",
+      "mainTech": ["HTML"],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+        "GIMP",
+        "Inkscape"
+      ]
+    }
+  ]
+}

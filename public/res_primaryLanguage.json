@@ -1,0 +1,131 @@
+{
+  "basic_info": {
+    "description_header": "Greetings",
+    "description": "👋 I'm a diligent 4th Year Computer Science Student with skills in programming, and UI/UX design. Committed to continuous learning and professional growth, I consistently seek out new opportunities to expand my skills and knowledge. I am particularly skilled in HTML, CSS, JavaScript, and PHP, which I have applied both in my studies and in my student internship work at Innospire IT Solutions. With my combination of technical skills and creativity, I am excited to explore opportunities in the fields of web development and UX design.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Thesis Project",
+      "startDate": "2023",
+      "description": "As the UI/UX designer for our thesis project, I led the design efforts for a chatbot powered by both NLP and rule-based systems, which was aimed at enhancing our school's portal. I played a pivotal role in ensuring that the chatbot was user-friendly and provided a seamless experience for our target audience. You can find more detailed information about my contribution to the project in our repository.",
+      "images": [
+        "images/portfolio/thesis/repocardtemplate-mydbuddy.png",
+        "images/portfolio/thesis/zoom-demo.GIF"
+      ],
+      "url": "https://github.com/pangilinan-patrick/MyDBuddy-Channel-Web",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "css"
+        }
+      ]
+    },
+    {
+      "title": "Graphic Design & Web",
+      "startDate": "2019",
+      "description": "During my time in Senior High School, I dedicated myself to creating various graphic design and web projects that allowed me to hone my skills in using HTML, CSS, Bootstrap, GIMP and Inkscape software. Through these projects, I not only developed a deeper understanding of graphic design principles, but also acquired the ability to apply them effectively. You can view the website I made by clicking on the hyperlink.",
+      "url": "https://pangilinan-patrick.github.io/physical-science-web-shs/Home.html",
+      "images": [
+        "images/portfolio/graphic-design/booklet.png",
+        "images/portfolio/graphic-design/math-poster.png",
+        "images/portfolio/physical-science-website/ph-science.png"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "css"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "bootstrap"
+        },
+        {
+          "class": "devicon-gimp-plain",
+          "name": "GIMP"
+        },
+        {
+          "class": "devicon-inkscape-plain",
+          "name": "Inkscape"
+        }
+      ]
+    },
+    {
+      "title": "Student Internship",
+      "startDate": "2019",
+      "description": "Produced a logo and various visual materials for an organization, and received a high grade of 99% for exceptional work. Gained experience with HTML, CSS, and JavaScript. Mentored a fellow student intern on design software such as GIMP and Inkscape. You can view the website I made by clicking on the hyperlink.",
+      "images": [
+        "images/portfolio/innospire/logo-w-circle.png",
+        "images/portfolio/innospire/innospire-web.png",
+        "images/portfolio/innospire/business-card.png",
+        "images/portfolio/innospire/id-front.png",
+        "images/portfolio/innospire/id-back.png"
+      ],
+      "url": "https://pangilinan-patrick.github.io/innospire-website-shs/Home.html",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "css"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "De la Salle Lipa",
+      "title": "Computer Science Student",
+      "years": "2019 - 2023",
+      "mainTech": ["Programming"],
+      "technologies": [
+        "C",
+        "C++",
+        "Python",
+        "MySQL",
+        "Object Oriented Programming"
+      ]
+    },
+    {
+      "company": "Innospire IT Solutions",
+      "title": "Student Intern",
+      "years": "2019",
+      "mainTech": ["HTML"],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+        "GIMP",
+        "Inkscape"
+      ]
+    }
+  ]
+}
